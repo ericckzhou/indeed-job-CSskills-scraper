@@ -4,5 +4,6 @@ A simple web scrap project used to list Computer Science languages/skills on Ind
 Note: The job page does not include a consistent format thus I could not go into specifics in skills and requirements.  
   
 HOW TO USE  
-1. Go to indeed and search the job titles you desire!  
-2. Copy and paste the url and enter the link!  
+1. Go on Indeed and search the jobs you desire in the search bar!  
+2. Run the program!  
+2. Copy and paste the URL and click the Enter key!
