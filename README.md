@@ -1,5 +1,6 @@
-Built using python 3.9  
-Requirements: Python, bs4, requests, lxml  
+# Built using python 3.9  
+# Requirements: Python, bs4, requests, lxml  
+# Created on Jan 16, 2021
 A simple web scrap project used to list Computer Science languages/skills on Indeed!  
 Note: The job page does not include a consistent format thus I could not go into specifics in skills and requirements.  
   
